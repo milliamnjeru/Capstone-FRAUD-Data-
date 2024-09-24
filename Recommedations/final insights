@@ -1,1 +1,22 @@
+# Final comments
+- Best Model: Random Forest delivered the best performance for fraud detection.
 
+- High Accuracy and Precision: Balanced precision and recall with minimal false positives.
+
+- Feature Importance: Identified key factors contributing to fraud.
+
+- Handling Imbalanced Data: Used class weighting and undersampling to address imbalanced classes.
+
+
+# Recommedations
+- Implement Real-Time Monitoring Systems to flag suspicious transactions immediately.
+
+- Continuous Model Training to keep up with evolving fraud patterns.
+
+- Advanced Anomaly Detection to catch unknown types of fraud.
+
+- Improve Feature Engineering by adding context-specific indicators (e.g., location, behavior).
+
+- Multi-Layered Security such as MFA and biometric verification for high-risk actions.
+
+- Collaborate on Data Sharing to leverage fraud patterns from other companies.
