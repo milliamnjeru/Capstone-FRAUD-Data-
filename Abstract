@@ -1,15 +1,28 @@
 
-# ABSTRACT
- - The  project mainly focuses on handling imbalanced data and detecting fraud cases following machine learning algorithms:
 
-     a) logistic regression
+# Why This Project:
+- I chose to work on fraud detection because it is a real-world problem with significant impact,especially in sectors like banking, insurance, and e-commerce.
 
-     b) Randomforestclassifier
+- Fraud not only leads to financial losses but also affects customer trust. 
 
-     c)DecisionTreeClassifier
+- By exploring data-driven solutions, such as machine learning techniques, I can contribute to building systems that detect and prevent fraudulent activities more effectively. 
 
-     d)KNeighbourClassifier
+- This project provides a great opportunity to apply my skills in data analysis, pattern recognition, and 
+machine learning to solve a problem that is both challenging and meaningful.
 
 
-     
-These modelss are fitted to diffirent dataset acquired after standard scaler ,oversampling,undersampling and smote techniques.separate files are created for every  machine learning model so that every datasets acquired after above mentioned technique are fitted to our model using single function
+# Genaral overview.
+
+- Fraud detection is an essential task in industries like finance, insurance, and online retail, 
+  where fraudulent transactions can result in major financial losses.
+
+- This project aims to identify patterns in transactional data that indicate fraud using machine learning techniques.
+
+- By analyzing historical data and learning from known fraudulent cases,
+  algorithms such as decision trees and support vector machines can be trained to detect unusual behavior in new data.
+
+- The main challenge is dealing with highly imbalanced datasets,
+   where fraud is rare compared to normal transactions.
+
+-This study explores simple yet effective approaches to improve fraud detection accuracy and reduce false positives.
+
