@@ -1,1 +1,15 @@
 
+# ABSTRACT
+ - The  project mainly focuses on handling imbalanced data and detecting fraud cases following machine learning algorithms:
+
+     a) logistic regression
+
+     b) Randomforestclassifier
+
+     c)DecisionTreeClassifier
+
+     d)KNeighbourClassifier
+
+
+     
+These modelss are fitted to diffirent dataset acquired after standard scaler ,oversampling,undersampling and smote techniques.separate files are created for every  machine learning model so that every datasets acquired after above mentioned technique are fitted to our model using single function
